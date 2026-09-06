@@ -102,5 +102,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-**MOHD VASI Saifi**
+**MOHD VASI SAIFI**
 GitHub: [@vasisaifi1-creator](https://github.com/vasisaifi1-creator)
